@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -13,6 +13,33 @@
   }
 }
 
+.zoom:hover {
+  transform: scale(1.1); 
+  transition: transform .2s; 
+  box-shadow: 0 5px 15px 0 rgb(0 0 0 / 10%);
+  
+}
+.H5Hover:hover{
+  
+    color: #DA162A;
+    transition: 200ms ease-in;
+  }
+.side_space{
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.zoom{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.boom{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.zoom_2{
+  margin-left: 20px;
+  margin-right: 20px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -23,9 +50,19 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.navbar-custom {
+  height: 100px;
+}
 
 .App-link {
   color: #61dafb;
+}
+.photo{
+  background:url("https://static.vecteezy.com/system/resources/previews/001/849/553/original/modern-gold-background-free-vector.jpg");
+  background-size: cover;
+  height: 900px;
+  width: 100%;
+  border:2px solid #031924;
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +73,4 @@
     transform: rotate(360deg);
   }
 }
+
