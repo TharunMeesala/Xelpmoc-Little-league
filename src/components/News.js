@@ -10,7 +10,7 @@ export default function News() {
           <Card.Text>
           December 19, 2022<br></br>
           Each year, moments of sportsmanship from on and off the playing field are honored at The Musial Awards in St. Louis, and during this year’s event, a current and former Little Leaguer®…
-          READ MORE
+          <a href="https://www.littleleague.org/news/little-leaguers-past-and-present-shine-at-the-2022-musial-awards/">READ MORE</a>
           </Card.Text>
         </Card.Body>
       </Card>

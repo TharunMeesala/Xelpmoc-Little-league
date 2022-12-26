@@ -34,22 +34,13 @@ export default function Cards() {
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel1a-content"
-          id="panel1a-header"
-        >
+          id="panel1a-header">
          SOFT BALL
         </AccordionSummary>
         <AccordionDetails>
         2023 Softball Age Chart
         </AccordionDetails>
       </Accordion>
-
-
-          
-
-
-
-
-
         </Card.Body>
       </Card>
       <Card className='zoom'>

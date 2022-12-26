@@ -23,7 +23,7 @@ export default function Otherarticles() {
           <Card.Title>Musuem</Card.Title>
           <Card.Text>
           World of Little League® Museum Earns Fifth Straight ISHY Award <br></br>
-          December 14, 2022
+          December 14, 2022.
           </Card.Text>
         </Card.Body>
       </Card>
